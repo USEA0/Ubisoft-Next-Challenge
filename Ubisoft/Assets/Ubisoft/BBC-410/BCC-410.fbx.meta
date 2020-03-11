@@ -3,7 +3,32 @@ guid: 1d06eb79e8ce5724d8c0c95e8f5d2bc0
 ModelImporter:
   serializedVersion: 19300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Body
+    second: {fileID: 2100000, guid: 245759e64c4e3774a9ca7b62c5c91888, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EMS
+    second: {fileID: 2100000, guid: e28e64142df13f04bb91583210b21885, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Inner Frame
+    second: {fileID: 2100000, guid: dc76a04eb7142e7418686d8bd727923e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metallic
+    second: {fileID: 2100000, guid: ae6525ee8779c9d46aba8c3b5fa82293, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wires
+    second: {fileID: 2100000, guid: 7230d17423a5bb4409954dfb0c240c51, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0
